@@ -1,0 +1,25 @@
+/* HTML TAGS */
+
+
+/* OBJECTS */
+
+#experimentInfo
+{
+	height: 105px;
+	margin-bottom: 2em;
+	background-image: url(../images/header_bg.gif);
+	background-repeat: repeat-x;
+	color: #0066CC;
+	text-align: left;
+}
+
+
+
+
+/* CLASSES */
+
+.hidden
+{
+	position: absolute;
+	left: -10000px;
+}

@@ -1,0 +1,31 @@
+/* RE-DEFINED HTML TAGS */
+
+
+
+/* OBJECT TAGS */
+
+#content
+{
+	clear: both;
+	padding: 0 2em;
+	background-color: #FFFFFF;
+}
+
+
+
+
+/* CLASSES */
+
+.clearer
+{
+	clear: both;
+	height: 1px;
+	font-size: 1px;
+	line-height: 1px;
+}
+
+.hidden
+{
+	position: absolute;
+	left: -10000px;
+}
